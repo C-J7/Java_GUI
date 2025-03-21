@@ -7,7 +7,7 @@ This directory contains various Simple  Java GUI projects, Built with Swing and 
 A Simple Model of the Solar System, With Bite-sized Infomation on each planet(Excluding the Sun ofcourse), mimicing rotation and with a few Twinkling Stars in the background.
 
 ### Screenshot
-![Project 1 Screenshot1](SolSysSS.jpg)
+![Project 1 Screenshot1](C:\Users\Admin\Documents\Dev_J7\Java_GUI\SolSysSS.jpg)
 
 ![Project 1 Screenshot2](SolsysSS2.jpg)
 
